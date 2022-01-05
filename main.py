@@ -13,3 +13,14 @@ print("Maka budi berangkat ke toko")
 print("Dan Mulai berbelanja")
 
 # Percabangan
+jumlah_botol_susu = 4
+
+if jumlah_botol_susu > 0:
+    print("budi mengecek uang belanjanya dan ternyata cukup")
+    print("budi membeli 1 botol susu")
+else:
+    print("budi tidak jadi membeli 1 botol susu")
+
+print("budi pulang ke rumah")
+print("budi menyerahkan hasil belanjanya kepada ibu")
+
